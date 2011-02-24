@@ -58,7 +58,7 @@ public class EntranceGALarge {
 				
 				int count=0;
 				
-				for(int j=107;j<200;j++){
+				for(int j=100;j<200;j++){
 					if(j==100||j==103||j==104) continue;
 					
 					modelPath=mp+dataSetNum[i]+"\\FM-"+j+".m";
