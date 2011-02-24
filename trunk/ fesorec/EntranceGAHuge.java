@@ -59,7 +59,7 @@ public class EntranceGAHuge {
 				
 				//int count=0;
 				
-				for(int j=174;j<199;j++){
+				for(int j=100;j<199;j++){
 					modelPath=mp+dataSetNum[i]+"\\FM-"+j+".m";
 					System.out.println(modelPath);
 					
